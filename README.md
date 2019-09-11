@@ -13,3 +13,8 @@ Assignments for the course Machine Learning 2 at University of Amsterdam (Fall 2
 - MLE and MAP solutions
 - Expectation, mean and covariance
 - Exponential families and conjugate priors
+
+### HW2: Information Theory and Graphical Models
+#### Topics:
+- Mutual Information, KL-divergence, entropy
+- Directed Graphs, Bayesian Networks, Markov Blankets
