@@ -12,6 +12,11 @@ Assignments for the course Machine Learning 2 at University of Amsterdam (Fall 2
 - The max-sum algorithm
 - Medical Graph 
 
+### Lab 3: Expectation Maximization and Variational Autoencoder
+#### Topics:
+- Expectation Maximization
+- Variational Auto-encoder
+
 ## Theoretical Assignments
 ### HW1: Exponential Families
 #### Topics:
@@ -35,3 +40,20 @@ Assignments for the course Machine Learning 2 at University of Amsterdam (Fall 2
 #### Topics:
 - Factor Graphs of Bayesian Networks
 - Sum-product algorithm 
+
+### HW5: Generative Models
+#### Topics:
+- Gaussian Mixute Models
+- EM algorithm
+- Mixtures of Burnoulli
+
+### HW6: Sampling, Variational EM
+#### Topics: 
+- Rejection, Importance, Independence, Gibbs sampling
+- Variational EM on Mixtures of multivariate Bernoulli
+- Random walks
+
+
+
+
+
