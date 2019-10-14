@@ -53,7 +53,9 @@ Assignments for the course Machine Learning 2 at University of Amsterdam (Fall 2
 - Variational EM on Mixtures of multivariate Bernoulli
 - Random walks
 
-
-
-
+### HW7: LDS and Causal Networks
+#### Topics:
+- VEM on Linear Dynamical Systems
+- Causal Bayesian Networks and Simpsons's Paradox
+- Structural Causal Models and Truncated Factorization
 
